@@ -694,3 +694,6 @@ class ReconciliationEngine:
             "meets_98_pct_target": meets_98_pct_target,
             "rows": report_rows,
         }
+
+    run_reconciliation = reconcile
+
