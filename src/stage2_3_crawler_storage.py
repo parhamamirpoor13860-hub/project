@@ -467,3 +467,6 @@ class TsetmcCrawler:
             "ticks_skipped_checkpoint": total_ticks_skipped,
             "details": results,
         }
+
+    crawl_instruments = crawl_all
+
