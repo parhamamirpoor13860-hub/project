@@ -1,0 +1,283 @@
+{
+  "instrumentSearch": [
+    {
+      "insCode": "46348559193224090",
+      "lVal18AFC": "فولاد",
+      "lVal30": "فولاد مباركه اصفهان",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "35425587644337450",
+      "lVal18AFC": "فملی",
+      "lVal30": "ملي صنايع مس ايران",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "17914401175772326",
+      "lVal18AFC": "اهرم",
+      "lVal30": "صندوق سرمايه گذاري اهرمي كاريمان",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "65883838195688438",
+      "lVal18AFC": "خودرو",
+      "lVal30": "ايران خودرو",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "2400322364771558",
+      "lVal18AFC": "شستا",
+      "lVal30": "سرمايه گذاري تامين اجتماعي",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "44891482026867833",
+      "lVal18AFC": "خساپا",
+      "lVal30": "سايپا",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "778253364357513",
+      "lVal18AFC": "وبملت",
+      "lVal30": "بانك ملت",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "63917421733088077",
+      "lVal18AFC": "وتجارت",
+      "lVal30": "بانك تجارت",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "28320293733348826",
+      "lVal18AFC": "وبصادر",
+      "lVal30": "بانك صادرات ايران",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "7745894403636165",
+      "lVal18AFC": "شپنا",
+      "lVal30": "پالايش نفت اصفهان",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "35366681030756042",
+      "lVal18AFC": "شبندر",
+      "lVal30": "پالايش نفت بندرعباس",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "35700344742885862",
+      "lVal18AFC": "کگل",
+      "lVal30": "معدني و صنعتي گل گهر",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "18027801615184692",
+      "lVal18AFC": "کچاد",
+      "lVal30": "معدني و صنعتي چادرملو",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "62782983923309630",
+      "lVal18AFC": "پالایش",
+      "lVal30": "صندوق پالايشي يكم",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "33878047680249697",
+      "lVal18AFC": "دارا یکم",
+      "lVal30": "صندوق واسطه گري مالي يكم",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "55254206302462140",
+      "lVal18AFC": "شتاب",
+      "lVal30": "صندوق سرمايه گذاري اهرمي شتاب",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "41927452991671109",
+      "lVal18AFC": "سرو",
+      "lVal30": "صندوق سرمايه گذاري سرو سودمند مدبران",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "61433307985319904",
+      "lVal18AFC": "موج",
+      "lVal30": "صندوق سرمايه گذاري اهرمي موج",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "31800535589614501",
+      "lVal18AFC": "آتیمس",
+      "lVal30": "صندوق سرمايه گذاري آتيمس",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "21508901342626983",
+      "lVal18AFC": "توان",
+      "lVal30": "صندوق سرمايه گذاري اهرمي توان",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "49012384756192837",
+      "lVal18AFC": "جهش",
+      "lVal30": "صندوق سرمايه گذاري اهرمي جهش",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "68123490182736451",
+      "lVal18AFC": "عیار",
+      "lVal30": "صندوق سرمايه گذاري طلاي عيار",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "52918374650192834",
+      "lVal18AFC": "کهربا",
+      "lVal30": "صندوق سرمايه گذاري طلاي كهربا",
+      "lastDate": 20261107,
+      "cgrValCot": "I1",
+      "yVal": "305",
+      "contractSize": 1
+    },
+    {
+      "insCode": "9211775239375291",
+      "lVal18AFC": "ذوب",
+      "lVal30": "ذوب آهن اصفهان",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "38729184750192837",
+      "lVal18AFC": "غدیر",
+      "lVal30": "سرمايه گذاري غدير",
+      "lastDate": 20261107,
+      "cgrValCot": "N1",
+      "yVal": "300",
+      "contractSize": 1
+    },
+    {
+      "insCode": "90000000000000001",
+      "lVal18AFC": "ضفلا1100",
+      "lVal30": "اختيارخ فولاد-4500-20261221",
+      "lastDate": 20261221,
+      "cgrValCot": "O1",
+      "yVal": "311",
+      "contractSize": 1000
+    },
+    {
+      "insCode": "90000000000000002",
+      "lVal18AFC": "طفلا1100",
+      "lVal30": "اختيارف فولاد-4500-20261221",
+      "lastDate": 20261221,
+      "cgrValCot": "O1",
+      "yVal": "312",
+      "contractSize": 1000
+    },
+    {
+      "insCode": "90000000000000003",
+      "lVal18AFC": "ضفمل1200",
+      "lVal30": "اختيارخ فملی-6000-20261221",
+      "lastDate": 20261221,
+      "cgrValCot": "O1",
+      "yVal": "311",
+      "contractSize": 1000
+    },
+    {
+      "insCode": "90000000000000004",
+      "lVal18AFC": "طفمل1200",
+      "lVal30": "اختيارف فملی-6000-20261221",
+      "lastDate": 20261221,
+      "cgrValCot": "O1",
+      "yVal": "312",
+      "contractSize": 1000
+    },
+    {
+      "insCode": "90000000000000005",
+      "lVal18AFC": "ضفلا0205",
+      "lVal30": "اختيارخ فولاد-4000-20230809",
+      "lastDate": 20230809,
+      "cgrValCot": "O1",
+      "yVal": "311",
+      "contractSize": 1000
+    },
+    {
+      "insCode": "90000000000000006",
+      "lVal18AFC": "طفلا0205",
+      "lVal30": "اختيارف فولاد-4000-20230809",
+      "lastDate": 20230809,
+      "cgrValCot": "O1",
+      "yVal": "312",
+      "contractSize": 1000
+    }
+  ]
+}
