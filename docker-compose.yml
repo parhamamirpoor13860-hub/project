@@ -1,0 +1,39 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: tsetmc-options-backend
+    env_file:
+      - .env.example
+    environment:
+      - DATA_DIR=/app/data
+      - RAW_DIR=/app/data/raw
+      - PROCESSED_DIR=/app/data/processed
+      - FIXTURES_DIR=/app/data/fixtures
+      - STATE_DB_PATH=/app/data/state.sqlite
+      - DUCKDB_PATH=/app/data/market.duckdb
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "8000:8000"
+    healthcheck:
+      test: ["CMD", "python3", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: tsetmc-options-frontend
+    environment:
+      - VITE_API_BASE_URL=http://localhost:8000/api
+    ports:
+      - "5173:5173"
+    depends_on:
+      backend:
+        condition: service_healthy
